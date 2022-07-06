@@ -9,4 +9,4 @@ MatthewK84/MatthewK84 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-Please note that this GitHub will be undergoing significant edits throughout December 2021. Each ReadMe file will be written out with details on how you can replicate or do each project I have better than me. 
+Please note that this GitHub will be undergoing significant edits in August 2022. Each ReadMe file will be written out with details on how you can replicate or do each project I have better than me. 
