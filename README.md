@@ -19,7 +19,7 @@ I'm a passionate Senior Data Professional specializing in transforming complex c
 ## 🎓 Education
 
 - 🔭 MEng Computer Engineering (Expected 2025) - Dartmouth College
-- 📊 MS Quantitative Management Analytics (2022) - Duke University
+- 📊 MS Analytics (2022) - Duke University
 - 🎓 PhD Business Administration (2017) - Oklahoma State University
 
 ## 💼 Professional Journey
