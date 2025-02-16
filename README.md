@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matthew Kolakowski
+# 👋 Matthew Kolakowski
 
 [![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue)](https://www.pmi.org/)
 [![Azure AI Engineer](https://img.shields.io/badge/Azure-AI%20Engineer-0089D6)](https://learn.microsoft.com/en-us/azure/)
