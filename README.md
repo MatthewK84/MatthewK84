@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate Senior Data Professional specializing in transforming complex challenges into measurable operational improvements. With experience spanning government agencies and Fortune 500 enterprises, I bridge the gap between data science and business strategy to deliver impactful solutions.
+I am a Senior Data Professional specializing in transforming complex challenges into measurable operational improvements. With experience spanning government agencies and Fortune 500 enterprises, I bridge the gap between data science and business strategy to deliver impactful solutions.
 
 ### 🎯 What I Do
 
