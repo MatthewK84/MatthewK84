@@ -39,13 +39,16 @@ Previously transformed data landscapes at:
 ```mermaid
 mindmap
   root((Core Skills))
-    Cloud & Infrastructure
+    Cloud Infrastructure
       AWS GovCloud
       Azure
       Google Cloud
       Databricks
     Programming
       Python
+      C
+      Golang
+      C++
       R
       SQL
       SAS
