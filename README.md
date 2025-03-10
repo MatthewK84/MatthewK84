@@ -24,7 +24,7 @@ I am a Senior Data Professional specializing in transforming complex challenges 
 
 ## 💼 Professional Journey
 
-Currently leading data architecture initiatives, where I:
+Currently leading data science initiatives, where I:
 - Spearheaded ML/AI projects resulting in $1.2M cost savings.
 - Direct multi-national data strategy implementations.
 - Lead rapid-delivery data science teams across AWS-GovCloud infrastructure.
@@ -39,7 +39,6 @@ Previously transformed data landscapes at:
 ```mermaid
 mindmap
   root((Core Skills))
-    Cloud Infrastructure
       AWS GovCloud
       Azure
       Google Cloud
