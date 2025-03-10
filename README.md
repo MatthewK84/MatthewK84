@@ -39,6 +39,7 @@ Previously transformed data landscapes at:
 ```mermaid
 mindmap
   root((Core Skills))
+      Cloud
       AWS GovCloud
       Azure
       Google Cloud
