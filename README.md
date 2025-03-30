@@ -1,9 +1,5 @@
 # 👋 Matthew Kolakowski
 
-[![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue)](https://www.pmi.org/)
-[![Azure AI Engineer](https://img.shields.io/badge/Azure-AI%20Engineer-0089D6)](https://learn.microsoft.com/en-us/azure/)
-[![GCP ML Engineer](https://img.shields.io/badge/Google%20Cloud-ML%20Engineer-4285F4)](https://cloud.google.com/)
-
 ## About Me
 
 I am a Senior Data Professional specializing in transforming complex challenges into measurable operational improvements. With experience spanning government agencies and Fortune 500 enterprises, I bridge the gap between data science and business strategy to deliver impactful solutions.
