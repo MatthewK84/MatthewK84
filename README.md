@@ -2,15 +2,7 @@
 
 ## About Me
 
-I am a Senior Data Professional specializing in transforming complex challenges into measurable operational improvements. With experience spanning government agencies and Fortune 500 enterprises, I bridge the gap between data science and business strategy to deliver impactful solutions.
-
-### What I Do
-
-- Design and implement large-scale data architectures.
-- Develop machine learning models for real-world applications.
-- Drive data-driven decision-making across organizations.
-- Lead high-performing technical teams.
-- Deliver enterprise-wide data strategies.
+I am a Lead Robotics Engineer specializing in transforming complex challenges into measurable operational improvements. 
 
 ## Education
 
@@ -19,11 +11,6 @@ I am a Senior Data Professional specializing in transforming complex challenges 
 - PhD Business Administration (2017) - Oklahoma State University
 
 ## Professional Journey
-
-Currently leading data science initiatives, where I:
-- Led ML/AI projects resulting in $1.2M cost savings.
-- Directed multi-national data strategy implementations.
-- Led rapid-delivery data science teams across AWS-GovCloud infrastructure.
 
 Previously at:
 - Wells Fargo (Risk Modeling & Quantitative Forecasting).
