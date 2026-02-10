@@ -21,7 +21,7 @@ Previously at:
 
 ```mermaid
 mindmap
-  root((Core Skills))
+  root((Technical Skills))
       Cloud
       AWS GovCloud
       Azure
@@ -42,7 +42,7 @@ mindmap
     Machine Learning
       Predictive Modeling
       Risk Analysis
-      Quantitative Forecasting
+      Forecasting
     Version Control
       GitHub
       CI/CD
