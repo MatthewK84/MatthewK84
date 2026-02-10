@@ -40,9 +40,9 @@ mindmap
       Data Architecture
       ETL Pipeline Design
     Machine Learning
+      Forecasting
       Predictive Modeling
       Risk Analysis
-      Forecasting
     Version Control
       GitHub
       CI/CD
