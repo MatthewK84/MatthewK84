@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Lead Robotics Engineer specializing in transforming complex challenges into measurable operational improvements. 
+I am a Lead Robotics Engineer who transforms complex challenges into measurable operational improvements. 
 
 ## Education
 
@@ -47,12 +47,3 @@ mindmap
       GitHub
       CI/CD
 ```
-
-## Highlights
-
-- Led 35+ completed data science projects in 8 months.
-- Developed models managing billions of monthly transactions.
-- Directed 50+ FTEs across international data science initiatives.
-- Published researcher with proven economic impact.
-- Track record of innovation in healthcare data analytics.
----
